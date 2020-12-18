@@ -1,4 +1,12 @@
 h1 {
+    color:blue;
+}
+
+h2 {
+    font-size: larger;
+}
+
+p {
     color:red;
 }
 h2{
